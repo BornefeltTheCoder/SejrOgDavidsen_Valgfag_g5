@@ -10,11 +10,6 @@
   </section>
 
 </header>
-<?php 
-echo '<pre>';
-print_r();
-echo '</pre>';
-?>
 <main>
   <section class="sectionWrapper TopSectionTraining">
 
